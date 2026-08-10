@@ -1,82 +1,20 @@
 {
-  "canvasManagerViewMode": "grid",
-  "textToSpeechMode": "auto",
-  "canvasDefaultZoom": 1,
-  "webSearch.thirdPartyEnabled": true,
-  "recordCompletionBehavior": "highlight",
-  "gitlabAutoSync": "disabled",
-  "webSearch.enabled": true,
-  "showEditorUndoRedo": true,
   "globalSearchFilter": "all",
+  "imageMethodModel": "",
+  "promptList": [
+    {
+      "content": "请你扮演一个笔记软件的智能助手，可以参考记录内容，使用 markdown 语法，回答用户的问题。",
+      "id": "0",
+      "isDefault": true,
+      "title": "写作助手"
+    }
+  ],
+  "currentAi": "",
+  "darkMode": "system",
+  "embeddingModel": "44ab4293-153b-4739-8014-9965ffc3e406",
   "rightSidebarVisible": false,
-  "sttModel": "note-gen-free-note-gen-stt",
-  "webSearch.basicEnabled": true,
-  "showEditorStats": true,
-  "canvasGridStyle": "dots",
-  "editorLineHeight": "comfortable",
-  "gitlabUsername": "",
-  "audioModel": "",
-  "commitModel": "note-gen-chat",
-  "currentPromptId": "0",
-  "recordSaveTargetMode": "current",
-  "canvasInsertBehavior": "select",
-  "enableOutline": false,
   "gitlabCustomUrl": "",
-  "giteaAutoSync": "disabled",
-  "shortcuts": [
-    {
-      "key": "openWindow",
-      "value": "CommandOrControl+Shift+W"
-    },
-    {
-      "key": "screenshotRecord",
-      "value": "CommandOrControl+Shift+S"
-    },
-    {
-      "key": "quickRecordText",
-      "value": "CommandOrControl+Shift+T"
-    }
-  ],
-  "giteaInstanceType": "gitea.com",
-  "leftSidebarVisible": false,
-  "giteaCustomUrl": "",
-  "recordToolbarConfig": [
-    {
-      "enabled": true,
-      "id": "text",
-      "order": 0
-    },
-    {
-      "enabled": true,
-      "id": "recording",
-      "order": 1
-    },
-    {
-      "enabled": true,
-      "id": "scan",
-      "order": 2
-    },
-    {
-      "enabled": true,
-      "id": "image",
-      "order": 3
-    },
-    {
-      "enabled": true,
-      "id": "link",
-      "order": 4
-    },
-    {
-      "enabled": true,
-      "id": "file",
-      "order": 5
-    },
-    {
-      "enabled": true,
-      "id": "todo",
-      "order": 6
-    }
-  ],
+  "showMobileEditorToolbar": true,
   "editorShortcuts": [
     {
       "id": "undo",
@@ -275,33 +213,7 @@
       "value": "Mod+Alt+-"
     }
   ],
-  "giteaUsername": "",
-  "editorViewMode": "visual",
-  "autoSync": "3",
-  "placeholderModel": "",
-  "canvasWheelBehavior": "zoom",
-  "imageMethodModel": "",
-  "codeTheme": "github",
-  "jsdelivr": true,
-  "showMobileEditorToolbar": true,
-  "webSearch.nativeEnabled": false,
-  "webSearch.providerOrder": [
-    "zhipu",
-    "tavily",
-    "brave",
-    "exa"
-  ],
-  "canvasGridVisible": true,
-  "githubUsername": "Prendecker",
-  "rerankingModel": "b061a762-49e2-4838-b75e-51d41005e41d",
-  "recordTextSize": "sm",
-  "completionModel": "note-gen-chat",
-  "recordViewMode": "list",
-  "language": "简体中文",
-  "giteeAutoSync": "disabled",
-  "ragStructuredKnowledgeConsent": true,
-  "useImageRepo": false,
-  "version": "0.34.1",
+  "giteaAutoSync": "disabled",
   "templateList": [
     {
       "content": "整理成一篇详细完整的笔记。\n满足以下格式要求：\n- 如果是代码，必须完整保留，不要随意生成。\n- 文字复制的内容尽量不要修改，只处理格式化后的内容。",
@@ -318,33 +230,16 @@
       "title": "周报"
     }
   ],
-  "canvasSnapToGrid": true,
-  "promptList": [
-    {
-      "content": "请你扮演一个笔记软件的智能助手，可以参考记录内容，使用 markdown 语法，回答用户的问题。",
-      "id": "0",
-      "isDefault": true,
-      "title": "写作助手"
-    }
-  ],
-  "primaryModel": "9c27c433-fac6-47d9-90c3-d391988dc07f",
-  "darkMode": "system",
-  "gitlabInstanceType": "gitlab.com",
-  "githubCustomImageRepo": "",
-  "currentTagId": 1,
-  "editorContentWidth": "full",
-  "embeddingModel": "44ab4293-153b-4739-8014-9965ffc3e406",
-  "editorSourceWrap": true,
-  "enableImageRecognition": true,
-  "autoPullOnOpen": true,
-  "currentAi": "",
-  "editorModel": "",
-  "giteeUsername": "HIMPR",
-  "fileManagerTextSize": "sm",
-  "leftSidebarTab": "canvases",
-  "webSearch.provider": "auto",
   "agentPermissionMode": "ask",
+  "codeTheme": "github",
+  "sttModel": "note-gen-free-note-gen-stt",
   "canvasManagerSortMode": "updated",
+  "editorContentWidth": "full",
+  "webSearch.basicEnabled": true,
+  "language": "简体中文",
+  "githubCustomImageRepo": "Prendeck-s-Note",
+  "webSearch.enabled": true,
+  "enableOutline": false,
   "recordFilters": {
     "search": "",
     "selectedTypes": [],
@@ -352,16 +247,89 @@
     "timePreset": "all"
   },
   "speechToTextMode": "auto",
-  "recordSortMode": "newest",
+  "canvasWheelBehavior": "zoom",
+  "useImageRepo": false,
+  "currentTagId": 1,
+  "canvasManagerViewMode": "grid",
+  "giteeAutoSync": "disabled",
+  "showEditorUndoRedo": true,
   "previewTheme": "github",
-  "fixedRecordTagId": null,
-  "agentSystemPromptExtension": "",
+  "leftSidebarVisible": false,
+  "webSearch.nativeEnabled": false,
   "canvasMinimapVisible": true,
-  "markDescModel": "8fe061fd-2eb2-43cd-bbb9-089ddc200fca",
+  "autoSync": "3",
+  "giteaCustomUrl": "",
+  "giteaUsername": "",
+  "leftSidebarTab": "canvases",
+  "enableImageRecognition": true,
+  "version": "0.34.1",
+  "rerankingModel": "b061a762-49e2-4838-b75e-51d41005e41d",
+  "canvasSnapToGrid": true,
+  "gitlabAutoSync": "disabled",
+  "recordTextSize": "sm",
+  "editorModel": "",
+  "jsdelivr": true,
+  "editorSourceWrap": true,
+  "recordToolbarConfig": [
+    {
+      "enabled": true,
+      "id": "text",
+      "order": 0
+    },
+    {
+      "enabled": true,
+      "id": "recording",
+      "order": 1
+    },
+    {
+      "enabled": true,
+      "id": "scan",
+      "order": 2
+    },
+    {
+      "enabled": true,
+      "id": "image",
+      "order": 3
+    },
+    {
+      "enabled": true,
+      "id": "link",
+      "order": 4
+    },
+    {
+      "enabled": true,
+      "id": "file",
+      "order": 5
+    },
+    {
+      "enabled": true,
+      "id": "todo",
+      "order": 6
+    }
+  ],
+  "autoPullOnOpen": true,
+  "audioModel": "",
+  "recordViewMode": "list",
+  "primaryModel": "9c27c433-fac6-47d9-90c3-d391988dc07f",
+  "fixedRecordTagId": null,
+  "canvasInsertBehavior": "select",
+  "ragStructuredKnowledgeConsent": true,
+  "canvasGridStyle": "dots",
+  "mainImageHosting": "github",
+  "gitlabUsername": "",
+  "giteeUsername": "HIMPR",
+  "webSearch.providerOrder": [
+    "zhipu",
+    "tavily",
+    "brave",
+    "exa"
+  ],
+  "editorLineHeight": "comfortable",
+  "webSearch.provider": "auto",
   "centerPanelVisible": true,
-  "outlinePosition": "right",
-  "agentCorePromptVersion": 3,
-  "showSourceLineNumbers": true,
+  "completionModel": "note-gen-chat",
+  "webSearch.thirdPartyEnabled": true,
+  "recordCompletionBehavior": "highlight",
   "customThemeColors": {
     "dark": {
       "accent": [
@@ -528,6 +496,40 @@
       ]
     }
   },
+  "canvasDefaultZoom": 1,
+  "commitModel": "note-gen-chat",
+  "textToSpeechMode": "auto",
+  "showEditorStats": true,
+  "autoUpdate": true,
+  "showSourceLineNumbers": true,
+  "markDescModel": "8fe061fd-2eb2-43cd-bbb9-089ddc200fca",
+  "shortcuts": [
+    {
+      "key": "openWindow",
+      "value": "CommandOrControl+Shift+W"
+    },
+    {
+      "key": "screenshotRecord",
+      "value": "CommandOrControl+Shift+S"
+    },
+    {
+      "key": "quickRecordText",
+      "value": "CommandOrControl+Shift+T"
+    }
+  ],
   "canvasGridGap": 20,
-  "autoUpdate": true
+  "outlinePosition": "right",
+  "githubUsername": "Prendecker",
+  "gitlabInstanceType": "gitlab.com",
+  "placeholderModel": "",
+  "agentCorePromptVersion": 3,
+  "agentSystemPromptExtension": "",
+  "currentPromptId": "0",
+  "editorViewMode": "visual",
+  "githubImageUsername": "Prendecker",
+  "recordSaveTargetMode": "current",
+  "giteaInstanceType": "gitea.com",
+  "fileManagerTextSize": "sm",
+  "canvasGridVisible": true,
+  "recordSortMode": "newest"
 }
