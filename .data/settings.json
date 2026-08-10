@@ -1,6 +1,6 @@
 {
   "globalSearchFilter": "all",
-  "imageMethodModel": "",
+  "imageMethodModel": "9c27c433-fac6-47d9-90c3-d391988dc07f",
   "promptList": [
     {
       "content": "请你扮演一个笔记软件的智能助手，可以参考记录内容，使用 markdown 语法，回答用户的问题。",
