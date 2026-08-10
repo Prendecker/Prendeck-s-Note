@@ -340,7 +340,7 @@
   "enableImageRecognition": true,
   "autoPullOnOpen": true,
   "currentAi": "",
-  "editorModel": "",
+  "editorModel": "019763f1-3d58-4cb4-953f-bb6ad227fffb",
   "giteeUsername": "HIMPR",
   "fileManagerTextSize": "sm",
   "leftSidebarTab": "canvases",
