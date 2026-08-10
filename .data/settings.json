@@ -282,7 +282,7 @@
   "autoSync": "3",
   "placeholderModel": "",
   "canvasWheelBehavior": "zoom",
-  "imageMethodModel": "",
+  "imageMethodModel": "2a657bcd-41de-4fd7-b94f-d1cebf96ce01",
   "codeTheme": "github",
   "jsdelivr": true,
   "showMobileEditorToolbar": true,
