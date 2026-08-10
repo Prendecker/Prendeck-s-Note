@@ -232,7 +232,7 @@
   ],
   "agentPermissionMode": "ask",
   "codeTheme": "github",
-  "sttModel": "note-gen-free-note-gen-stt",
+  "sttModel": "49a6b70b-5ede-49d2-90a2-9252910eb829",
   "canvasManagerSortMode": "updated",
   "editorContentWidth": "full",
   "webSearch.basicEnabled": true,
