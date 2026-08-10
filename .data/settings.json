@@ -1,6 +1,6 @@
 {
   "globalSearchFilter": "all",
-  "imageMethodModel": "2a657bcd-41de-4fd7-b94f-d1cebf96ce01",
+  "imageMethodModel": "9c27c433-fac6-47d9-90c3-d391988dc07f",
   "promptList": [
     {
       "content": "请你扮演一个笔记软件的智能助手，可以参考记录内容，使用 markdown 语法，回答用户的问题。",
@@ -267,7 +267,7 @@
   "canvasSnapToGrid": true,
   "gitlabAutoSync": "disabled",
   "recordTextSize": "sm",
-  "editorModel": "019763f1-3d58-4cb4-953f-bb6ad227fffb",
+  "editorModel": "8fe061fd-2eb2-43cd-bbb9-089ddc200fca",
   "jsdelivr": true,
   "editorSourceWrap": true,
   "recordToolbarConfig": [
