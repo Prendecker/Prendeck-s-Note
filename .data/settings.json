@@ -1,5 +1,21 @@
 {
-  "imageMethodModel": "9c27c433-fac6-47d9-90c3-d391988dc07f",
+  "jsdelivr": true,
+  "canvasGridStyle": "dots",
+  "webSearch.nativeEnabled": false,
+  "autoPullOnOpen": true,
+  "agentSystemPromptExtension": "",
+  "ragResultCount": 5,
+  "canvasGridGap": 20,
+  "webSearch.provider": "auto",
+  "editorSourceWrap": true,
+  "editorViewMode": "visual",
+  "leftSidebarTab": "canvases",
+  "githubUsername": "Prendecker",
+  "canvasManagerViewMode": "grid",
+  "codeTheme": "github",
+  "ragKnowledgeIndexPaused": false,
+  "commitModel": "note-gen-chat",
+  "giteeUsername": "HIMPR",
   "customThemeColors": {
     "dark": {
       "accent": [
@@ -166,159 +182,15 @@
       ]
     }
   },
-  "jsdelivr": true,
-  "canvasManagerViewMode": "grid",
-  "recordViewMode": "list",
-  "editorModel": "8fe061fd-2eb2-43cd-bbb9-089ddc200fca",
-  "recordCompletionBehavior": "highlight",
-  "webSearch.thirdPartyEnabled": true,
-  "autoSync": "3",
-  "canvasGridStyle": "dots",
-  "primaryModel": "9c27c433-fac6-47d9-90c3-d391988dc07f",
-  "markDescModel": "9c27c433-fac6-47d9-90c3-d391988dc07f",
-  "mainImageHosting": "github",
-  "gitlabAutoSync": "disabled",
-  "editorContentWidth": "full",
-  "fileManagerTextSize": "sm",
-  "canvasMinimapVisible": true,
-  "editorSourceWrap": true,
-  "leftSidebarVisible": true,
-  "giteaAutoSync": "disabled",
-  "currentAi": "",
-  "globalSearchFilter": "all",
-  "githubImageUsername": "Prendecker",
-  "autoUpdate": true,
-  "autoPullOnOpen": true,
-  "giteaInstanceType": "gitea.com",
-  "rerankingModel": "b061a762-49e2-4838-b75e-51d41005e41d",
-  "giteaCustomUrl": "",
   "placeholderModel": "",
-  "webSearch.enabled": true,
-  "recordSortMode": "newest",
-  "previewTheme": "github",
-  "darkMode": "system",
-  "editorLineHeight": "comfortable",
-  "ragStructuredKnowledgeConsent": true,
-  "sttModel": "49a6b70b-5ede-49d2-90a2-9252910eb829",
-  "promptList": [
-    {
-      "content": "请你扮演一个笔记软件的智能助手，可以参考记录内容，使用 markdown 语法，回答用户的问题。",
-      "id": "0",
-      "isDefault": true,
-      "title": "写作助手"
-    }
-  ],
-  "language": "简体中文",
-  "webSearch.nativeEnabled": false,
-  "giteeUsername": "HIMPR",
-  "enableOutline": false,
-  "embeddingModel": "44ab4293-153b-4739-8014-9965ffc3e406",
-  "showEditorUndoRedo": true,
-  "outlinePosition": "right",
-  "fixedRecordTagId": null,
-  "canvasGridVisible": true,
-  "leftSidebarTab": "canvases",
-  "version": "0.34.1",
-  "webSearch.basicEnabled": true,
-  "templateList": [
-    {
-      "content": "整理成一篇详细完整的笔记。\n满足以下格式要求：\n- 如果是代码，必须完整保留，不要随意生成。\n- 文字复制的内容尽量不要修改，只处理格式化后的内容。",
-      "id": "0",
-      "range": "all",
-      "status": true,
-      "title": "笔记"
-    },
-    {
-      "content": "最近一周的记录整理成一篇周报，将每条记录形成一句总结，每条不超过50字。",
-      "id": "1",
-      "range": "week",
-      "status": true,
-      "title": "周报"
-    }
-  ],
-  "agentCorePromptVersion": 3,
-  "githubCustomImageRepo": "Prendeck-s-Note",
-  "textToSpeechMode": "auto",
-  "gitlabCustomUrl": "",
-  "canvasManagerSortMode": "updated",
-  "audioModel": "",
-  "recordFilters": {
-    "search": "",
-    "selectedTypes": [],
-    "tagId": "all",
-    "timePreset": "all"
-  },
-  "commitModel": "note-gen-chat",
-  "canvasDefaultZoom": 1,
-  "useImageRepo": true,
-  "gitlabInstanceType": "gitlab.com",
-  "gitlabUsername": "",
-  "recordToolbarConfig": [
-    {
-      "enabled": true,
-      "id": "text",
-      "order": 0
-    },
-    {
-      "enabled": true,
-      "id": "recording",
-      "order": 1
-    },
-    {
-      "enabled": true,
-      "id": "scan",
-      "order": 2
-    },
-    {
-      "enabled": true,
-      "id": "image",
-      "order": 3
-    },
-    {
-      "enabled": true,
-      "id": "link",
-      "order": 4
-    },
-    {
-      "enabled": true,
-      "id": "file",
-      "order": 5
-    },
-    {
-      "enabled": true,
-      "id": "todo",
-      "order": 6
-    }
-  ],
-  "canvasGridGap": 20,
-  "recordSaveTargetMode": "current",
-  "codeTheme": "github",
-  "githubUsername": "Prendecker",
-  "giteaUsername": "",
-  "pin": false,
-  "showSourceLineNumbers": true,
-  "completionModel": "note-gen-chat",
-  "showEditorStats": true,
-  "speechToTextMode": "auto",
-  "showMobileEditorToolbar": true,
-  "editorViewMode": "visual",
-  "agentPermissionMode": "ask",
-  "currentPromptId": "0",
-  "webSearch.provider": "auto",
   "rightSidebarVisible": false,
-  "webSearch.providerOrder": [
-    "zhipu",
-    "tavily",
-    "brave",
-    "exa"
-  ],
-  "centerPanelVisible": true,
-  "agentSystemPromptExtension": "",
-  "giteeAutoSync": "disabled",
-  "canvasSnapToGrid": true,
-  "enableImageRecognition": true,
-  "canvasWheelBehavior": "zoom",
-  "currentTagId": 1,
+  "gitlabUsername": "",
+  "giteaAutoSync": "disabled",
+  "agentPermissionMode": "ask",
+  "canvasDefaultZoom": 1,
+  "pin": false,
+  "fileManagerTextSize": "sm",
+  "primaryModel": "9c27c433-fac6-47d9-90c3-d391988dc07f",
   "editorShortcuts": [
     {
       "id": "undo",
@@ -517,8 +389,101 @@
       "value": "Mod+Alt+-"
     }
   ],
+  "useImageRepo": true,
+  "showMobileEditorToolbar": true,
+  "currentPromptId": "0",
+  "webSearch.enabled": true,
+  "recordSaveTargetMode": "current",
+  "previewTheme": "github",
+  "recordToolbarConfig": [
+    {
+      "enabled": true,
+      "id": "text",
+      "order": 0
+    },
+    {
+      "enabled": true,
+      "id": "recording",
+      "order": 1
+    },
+    {
+      "enabled": true,
+      "id": "scan",
+      "order": 2
+    },
+    {
+      "enabled": true,
+      "id": "image",
+      "order": 3
+    },
+    {
+      "enabled": true,
+      "id": "link",
+      "order": 4
+    },
+    {
+      "enabled": true,
+      "id": "file",
+      "order": 5
+    },
+    {
+      "enabled": true,
+      "id": "todo",
+      "order": 6
+    }
+  ],
   "recordTextSize": "sm",
+  "autoSync": "3",
+  "gitlabCustomUrl": "",
+  "recordSortMode": "newest",
+  "recordViewMode": "list",
+  "promptList": [
+    {
+      "content": "请你扮演一个笔记软件的智能助手，可以参考记录内容，使用 markdown 语法，回答用户的问题。",
+      "id": "0",
+      "isDefault": true,
+      "title": "写作助手"
+    }
+  ],
+  "editorLineHeight": "comfortable",
+  "editorContentWidth": "full",
+  "currentAi": "",
+  "markDescModel": "9c27c433-fac6-47d9-90c3-d391988dc07f",
+  "rerankingModel": "b061a762-49e2-4838-b75e-51d41005e41d",
+  "fixedRecordTagId": null,
+  "autoUpdate": true,
+  "textToSpeechMode": "auto",
+  "giteaCustomUrl": "",
+  "enableOutline": false,
+  "webSearch.thirdPartyEnabled": true,
+  "canvasWheelBehavior": "zoom",
+  "version": "0.34.1",
+  "gitlabInstanceType": "gitlab.com",
   "canvasInsertBehavior": "select",
+  "recordFilters": {
+    "search": "",
+    "selectedTypes": [],
+    "tagId": "all",
+    "timePreset": "all"
+  },
+  "giteeAutoSync": "disabled",
+  "githubCustomImageRepo": "Prendeck-s-Note",
+  "leftSidebarVisible": true,
+  "embeddingModel": "44ab4293-153b-4739-8014-9965ffc3e406",
+  "githubImageUsername": "Prendecker",
+  "completionModel": "note-gen-chat",
+  "currentTagId": 1,
+  "recordCompletionBehavior": "highlight",
+  "gitlabAutoSync": "disabled",
+  "mainImageHosting": "github",
+  "ragStructuredKnowledgeConsent": true,
+  "agentCorePromptVersion": 3,
+  "webSearch.providerOrder": [
+    "zhipu",
+    "tavily",
+    "brave",
+    "exa"
+  ],
   "shortcuts": [
     {
       "key": "openWindow",
@@ -532,5 +497,42 @@
       "key": "quickRecordText",
       "value": "CommandOrControl+Shift+T"
     }
-  ]
+  ],
+  "canvasSnapToGrid": true,
+  "canvasMinimapVisible": true,
+  "giteaUsername": "",
+  "showEditorUndoRedo": true,
+  "templateList": [
+    {
+      "content": "整理成一篇详细完整的笔记。\n满足以下格式要求：\n- 如果是代码，必须完整保留，不要随意生成。\n- 文字复制的内容尽量不要修改，只处理格式化后的内容。",
+      "id": "0",
+      "range": "all",
+      "status": true,
+      "title": "笔记"
+    },
+    {
+      "content": "最近一周的记录整理成一篇周报，将每条记录形成一句总结，每条不超过50字。",
+      "id": "1",
+      "range": "week",
+      "status": true,
+      "title": "周报"
+    }
+  ],
+  "outlinePosition": "right",
+  "audioModel": "",
+  "sttModel": "49a6b70b-5ede-49d2-90a2-9252910eb829",
+  "showEditorStats": true,
+  "showSourceLineNumbers": true,
+  "giteaInstanceType": "gitea.com",
+  "enableImageRecognition": true,
+  "globalSearchFilter": "all",
+  "webSearch.basicEnabled": true,
+  "darkMode": "system",
+  "canvasManagerSortMode": "updated",
+  "speechToTextMode": "auto",
+  "imageMethodModel": "9c27c433-fac6-47d9-90c3-d391988dc07f",
+  "centerPanelVisible": true,
+  "canvasGridVisible": true,
+  "editorModel": "8fe061fd-2eb2-43cd-bbb9-089ddc200fca",
+  "language": "简体中文"
 }
