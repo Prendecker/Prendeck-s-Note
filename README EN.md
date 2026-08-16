@@ -4,4 +4,6 @@ This is my note repository, used to sync content I record from NOTEGEN Everyone 
 
 Using the CC BY license
 
+（Due to author ""）
+
 &nbsp;
