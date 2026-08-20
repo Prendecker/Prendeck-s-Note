@@ -1,8 +1,8 @@
 {
   "schemaVersion": 3,
-  "updatedAt": "2026-08-16T12:51:22.388Z",
-  "updatedAtMs": 1786884682388,
-  "deviceId": "device_1786331324602_sqiki1t9h",
+  "updatedAt": "2026-08-20T14:27:08.358Z",
+  "updatedAtMs": 1787236028358,
+  "deviceId": "device_1786268245465_fbhfj8pvs",
   "provider": "github",
   "domains": [
     "records",
@@ -14,9 +14,9 @@
   ],
   "domainStates": {
     "records": {
-      "updatedAt": "2026-08-16T12:51:22.388Z",
-      "updatedAtMs": 1786884682388,
-      "deviceId": "device_1786331324602_sqiki1t9h"
+      "updatedAt": "2026-08-20T14:27:08.358Z",
+      "updatedAtMs": 1787236028358,
+      "deviceId": "device_1786268245465_fbhfj8pvs"
     },
     "settings": {
       "updatedAtMs": 1786354226794,
@@ -45,5 +45,5 @@
     ],
     "meta": ".data/meta.json"
   },
-  "appVersion": "0.34.1"
+  "appVersion": "0.35.1"
 }
