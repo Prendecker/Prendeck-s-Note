@@ -1,11 +1,11 @@
 {
   "githubImageUsername": "Prendecker",
-  "agentPermissionMode": "read-only",
+  "agentPermissionMode": "ask",
   "recordViewMode": "list",
   "webSearch.nativeEnabled": false,
   "primaryModel": "9c27c433-fac6-47d9-90c3-d391988dc07f",
   "gitlabCustomUrl": "",
-  "rightSidebarVisible": false,
+  "rightSidebarVisible": true,
   "canvasGridGap": 20,
   "gitlabUsername": "",
   "autoPullOnOpen": true,
@@ -256,24 +256,22 @@
     "README.md"
   ],
   "canvasGridStyle": "dots",
-  "leftSidebarVisible": true,
+  "leftSidebarVisible": false,
   "githubCustomImageRepo": "Prendeck-s-Note",
   "editorWorkspaceLayout:main": {
-    "activeGroupId": "editor-group-607081bd-dfee-450b-8342-b879622da874",
+    "activeGroupId": "editor-group-51346cea-2045-41bd-92c8-f8fe476cc1ec",
     "groups": {
-      "editor-group-607081bd-dfee-450b-8342-b879622da874": {
+      "editor-group-51346cea-2045-41bd-92c8-f8fe476cc1ec": {
         "activeTabId": "canvas://project/19376254-4f6a-4a73-b3ba-7f3b616bea6a",
-        "id": "editor-group-607081bd-dfee-450b-8342-b879622da874",
+        "id": "editor-group-51346cea-2045-41bd-92c8-f8fe476cc1ec",
         "tabIds": [
-          "1788405980478-dgf402vlr",
-          "1788414016292-guw79pkex",
           "canvas://project/19376254-4f6a-4a73-b3ba-7f3b616bea6a"
         ]
       }
     },
     "root": {
-      "groupId": "editor-group-607081bd-dfee-450b-8342-b879622da874",
-      "id": "editor-node-1fd22f9c-de1e-4e1e-b956-efe92cfa6968",
+      "groupId": "editor-group-51346cea-2045-41bd-92c8-f8fe476cc1ec",
+      "id": "editor-node-5ac96801-ba44-46be-ae76-ed0bcfd3a00c",
       "type": "group"
     },
     "version": 1
