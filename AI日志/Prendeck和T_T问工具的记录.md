@@ -1449,19 +1449,6 @@ MCP 服务器已注册！需要你在 Cherry Studio 的 **Settings → MCP** 里
 
 ## 🤖 tModLoader导师
 
-已深度思考 The user is asking whether to remove the Remotion-related content from the README.md since they've decided to abandon Remotion. They say if it becomes useful again later, I can add it back.  
-  
-This makes sense - the README should reflect the current state of the tools. The Remotion section is taking up space and describing a tool that's no longer being used. Let me remove it and keep the README focused on what's actually in use.  
-  
-But I should keep the TeachAnim directory mentioned somewhere briefly (just saying it exists but is inactive), since the directory still exists on disk. Actually, the user said to remove it - "把关于remotion的给删了". Let me just remove the TeachAnim section from the README.  
-  
-  
-I'll go ahead and make that edit now.  
-  
-Now I need to remove the TeachAnim/Remotion section (lines 70-130) from the README. Let me do that.  
-  
-Done. The Remotion/TeachAnim section has been removed from the README. The TeachAnim directory still exists on disk but the README no longer documents it. If the user ever wants to use Remotion again, I can add it back.
-
 有道理，用不着的东西留在文档里反而让人困惑。删掉 Remotion 部分，TeachAnim 目录还在但不用特意在 README 里提了。
 
 删掉了。README 里 Remotion 相关的 60 行全清了，现在只保留真正在用的工具：
@@ -1494,18 +1481,6 @@ TeachAnim 目录还在磁盘上，只是 README 不提它了。以后要是想�
 ---
 
 ## 🤖 tModLoader导师
-
-已深度思考 The user is asking whether they should configure a "生图模型" (image generation model). Let me think about what this means in context.  
-  
-Looking at the user's setup, they have Cherry Studio (a multi-AI client) and various MCP tools. The user is asking about image generation models - this could mean:  
-  
-1. Configuring a painting/generation model in Cherry Studio settings  
-2. Installing a local image generation toolLet me think about what's useful for their modding work:  
-- Terraria modding needs pixel art for items, projectiles, NPCs  
-- They have a 1.4.4.9 vanilla texture library with 13k images as reference  
-  
-  
-- An image generation model could help them create concept art or test visual ideas quickly, though for actual game assets they'd need pixel-perfect art at specific resolutions, which AI models struggle with. It's more of a fun concept design tool than something that'd produce production-ready sprites.
 
 闲聊时间~ (◕ᴗ◕✿)
 
