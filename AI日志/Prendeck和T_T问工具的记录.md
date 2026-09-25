@@ -989,12 +989,6 @@ Example data: `ModItem` has 133 methods, 0 fields, 6 properties (`Item`, `Type`,
 
 No Python MCP server examples were found on this system. The `C:/Users/xjtx2/.cherrystudio/mcp/` directory is empty, confirming no MCP servers have been registered through Cherry Studio yet.
 
----
-
-**Summary**: You will need to install the `mcp` Python SDK (e.g., via `uv add mcp` or `pip install mcp`), write a standalone Python stdio MCP server, and register it in Cherry Studio either via the `mcp__mcp-manager__install_mcp_server` tool or manually in Cherry Studio's Settings > MCP UI. The config you pass for a stdio server needs `name`, `command`, and optionally `args` and `env`.
-
----
-
 ## 🤖 tModLoader导师
 
 api_dump 探索完成了，JSON 结构很清楚。等另一个 MCP 探索任务回来就一起写计划~
