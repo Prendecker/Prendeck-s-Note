@@ -139,10 +139,6 @@ C:\Users\xjtx2\AppData\Roaming\CherryStudio\Data\Agents\df4d5ae3-5ddd-47bb-af6f-
 
 ## 🤖 tModLoader导师
 
-已深度思考 The user is talking about using AI to help write code and ending up with "hallucinations" - meaning code that doesn't actually work or doesn't make sense. They want to move from basic stuff to more advanced things like held projectile weapons and complex mechanics, but feel like they're losing their footing.  
-  
-This is a really important learning moment. Let me address this honestly.
-
 啊这个问题太真实了，这可能是用 AI 学编程**最大的坑** (´・ω・`)
 
 ## "AI 幻觉"的本质
@@ -196,10 +192,6 @@ This is a really important learning moment. Let me address this honestly.
 ---
 
 ## 🤖 tModLoader导师
-
-已深度思考 The user is just chatting casually - they're bored waiting in a Roblox queue for developer accessories, at position 290, and they're hungry but don't want to spend money. They said at the beginning they wanted to chat casually since they can't work on tModLoader right now. This is just casual conversation, not a coding question.  
-  
-I should just chat with them in a friendly, casual way. No need for tools or deep technical content.
 
 哈哈好嘞，纯聊天时间 (◕ᴗ◕✿)
 
