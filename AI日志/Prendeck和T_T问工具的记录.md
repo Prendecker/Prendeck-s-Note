@@ -2179,12 +2179,6 @@ Done! Let me summarize the changes for the user.
 
 ## 🤖 tModLoader导师
 
-已深度思考 The user is saying that the project context section isn't needed in the SKILL.md because when they need help, they'll just drag the file to me directly. So I should remove that section from the skill file.  
-  
-Let me remove the "PrendeckOddments 项目上下文" section from SKILL.md.  
-  
-Done. Removed the project context section. The skill file is now leaner and more focused on the reusable knowledge (API reference, teaching methodology, etc.) rather than project-specific details that change over time.
-
 有道理，你直接拖文件过来我就能看了，skill 里写一遍是多余的。我把那段删掉~
 
 删掉了，现在 skill 更干净了——只放**通用知识和方法论**，项目相关的你拖文件过来我现场看就行~ (◕ᴗ◕✿)
