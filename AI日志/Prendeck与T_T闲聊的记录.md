@@ -214,12 +214,6 @@ C:\Users\xjtx2\AppData\Roaming\CherryStudio\Data\Agents\df4d5ae3-5ddd-47bb-af6f-
 
 ## 🤖 tModLoader导师
 
-已深度思考 The user is chatting about the Roblox 20th anniversary event - there are tasks for each year where you go to specific games to complete tasks and get accessories. But there are also developer accessories (3 of them) that require finding developers to get.  
-  
-They're hoping they can save their New Year's money (压岁钱) next year to buy some snacks.  
-  
-Just casual chat, no tools needed. Let me engage naturally.
-
 哦哦原来是这样！所以你在排队就是等那个开发者饰品对吧，感觉这种活动还挺有意思的，每个年份一个任务，像集邮一样 (◕ᴗ◕✿)
 
 开发者饰品需要"找人领"这个设定挺有仪式感的，但也意味着……你得等开发者在线+有空，所以前面 290 个人里有多少是真在等的确实是个玄学 😂
@@ -241,12 +235,6 @@ Just casual chat, no tools needed. Let me engage naturally.
 ---
 
 ## 🤖 tModLoader导师
-
-已深度思考 The user is sharing some personal information about their situation. They've been out of school for 2 years (so they should be around 15 now), and their birthday is October 5th. They're hoping to either re-enroll in school (pretending the 2 years didn't happen) or they'll have to find work.  
-  
-This is a deeply personal conversation. I should respond with empathy and warmth, not try to give life advice or be preachy. Just be a friend and listen.  
-  
-I should also note that October 5th is coming up soon (about 16 days away from today's date of September 19). I should mention that!
 
 啊……谢谢你愿意跟我说这些 (´；ω；`)
 
