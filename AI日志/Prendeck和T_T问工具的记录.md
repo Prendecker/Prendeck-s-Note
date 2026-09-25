@@ -1908,16 +1908,6 @@ The key insight is that their current approach of building self-contained HTML f
 
 ## 🤖 tModLoader导师
 
-已深度思考 The user is asking about what to do first in their mod development learning journey. They're currently playing a game event and won't be back to coding until next week at the latest (or the week after).  
-  
-Looking at the recommended learning roadmap from FACT.md:  
-  
-1. 循环 + 基础补漏 — 地基  
-2. Dust 粒子系统 — 上手有成就感  
-3. 弹幕 AI 系统 — 结合 Toy_Star_Fragments 实战  
-4. 新武器实战 — 综合运用  
-5. 饰品系统 — 新领域From their knowledge map, they've already got variables, types, conditionals, classes, objects, method overrides, SetDefaults, Shoot, and localization down. What they're missing—and what we need to focus on—are loops (for/while/foreach), the Projectile.ai system, GlobalItem/GlobalProjectile patterns, and the Dust particle system. Since they won't be back until next week at the earliest, I should give them a straightforward recommendation on what to prioritize first.
-
 按你之前问卷的结果，推荐顺序是这样的：
 
 **第一步：循环基础（C# 补漏）** ← 从这里开始
@@ -1948,19 +1938,6 @@ Looking at the recommended learning roadmap from FACT.md:
 ---
 
 ## 🤖 tModLoader导师
-
-已深度思考 The user is saying that their main challenge is understanding how to find and use APIs themselves - they want to be able to independently look up code and implement things, rather than depending on me to tell them what to write.  
-  
-This is actually a really important point. They don't just want to learn C# syntax (loops, etc.), they want to learn the **skill of self-directed development** - how to find the right API, read documentation, understand examples, and implement features independently.  
-  
-This shifts the learning priority. Instead of "learn loops first," the real need is:  
-1. How to use api_lookup.py / MCP to find APIs  
-2. How to read tModLoader API docs and understand what they mean  
-  
-  
-3. How to find ExampleMod examples4. How to combine multiple APIs to implement something  
-  
-The api_lookup tool they just built is actually the perfect foundation for this self-learning workflow. I should design the learning approach around teaching them how to use that tool effectively as their primary resource, then build up their ability to combine APIs and work independently.
 
 啊这很重要！你想学的不是"怎么写代码"，而是**"怎么自己找到需要的 API 然后用起来"**。
 
