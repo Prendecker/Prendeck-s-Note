@@ -1750,18 +1750,6 @@ Given their preference for single-file zero-dependency solutions, I should recom
 
 ## 🤖 tModLoader导师
 
-已深度思考 The user is asking about memory tools/plugins for cross-session persistence. They want me to remember things across sessions.  
-  
-Let me think about what's already in place:  
-1. Cherry Studio has a built-in memory system with four files: SOUL.md, USER.md, FACT.md, JOURNAL.jsonl - this is already working  
-2. The FACT.md file is already being updated with session knowledge  
-3. The USER.md stores user identityThe user is asking if they need to install a plugin for cross-session memory. The answer is: they already have one! Cherry Studio's built-in memory system (the four files) IS the cross-session memory. I've been using it this whole session.  
-  
-But maybe they're thinking about something more... Let me think:  
-  
-  
-Actually, the built-in system is pretty solid as-is—SOUL.md and USER.md handle identity, FACT.md captures durable knowledge, and JOURNAL.jsonl logs one-time events. They could enhance it by being more proactive about updating those files and using the journal for things worth remembering, but honestly, adding another plugin would just duplicate what's already there.
-
 哈哈你的"屁话"我都记着呢~ (◕ᴗ◕✿)
 
 其实你已经有跨会话记忆了！就是 Cherry Studio 内置的**四文件系统**：
@@ -1796,17 +1784,6 @@ PPT和excel需要弄吗？
 
 ## 🤖 tModLoader导师
 
-已深度思考 The user is asking about PPT (PowerPoint) and Excel - whether they need to set these up as tools/MCP/skills or something similar. Let me think about what context this is in.  
-  
-Given the context of our conversation about tools, MCP servers, and skills, they might be asking:  
-1. Do they need PPT/Excel-related MCP tools or skills?  
-2. Or are they asking in general if they need to learn/use PPT and Excel?  
-  
-Given the context of "目前先不弄什么工具等之后需要再让你帮忙去网上找" and the discussion about tools, I think they're asking whether they need to add PPT/Excel related tools (like MCP servers or skills) to their setup.  
-  
-  
-For their mod development workflow, Excel could help with organizing data like weapon stats and damage calculations, while PPT would mainly be useful if they're presenting or creating documentation about their mods - but for a solo developer, neither is really essential.
-
 你是说模组开发流程里用不用得上？
 
 **Excel（或类似表格工具）**：
@@ -1837,22 +1814,6 @@ For their mod development workflow, Excel could help with organizing data like w
 ---
 
 ## 🤖 tModLoader导师
-
-已深度思考 The user is asking about whether there are MCP servers or skills that could help make their teaching documents more visually appealing, intuitive, and cool. They mentioned PPT and Excel as potential tools.  
-  
-Let me think about what could be useful for making better HTML teaching documents:  
-  
-1. **Mermaid.js** - For diagrams (flowcharts, sequence diagrams, etc.) rendered in HTML. This is a big one for teaching!  
-2. **D3.js** - For interactive data visualizations  
-3. **Chart.js** - For simple charts  
-4. **KaTeX/MathJax** - For math formulas (damage calculations)  
-5. **Prism.js / highlight.js** - For code syntax highlighting in HTML docs  
-  
-  
-6. **Draw.io / Excalidraw MCP** - For creating diagrams and visual assets that could be embedded or converted for web use  
-7. **Markdown to HTML converters** - Tools that transform written content into styled web pages  
-  
-The key insight is that their current approach of building self-contained HTML files with CSS animations is already quite effective. The real value would come from libraries like Mermaid.js for diagrams, KaTeX for rendering formulas beautifully, and syntax highlighting tools—all of which can be integrated directly into their HTML files without needing external servers or complex setups.
 
 啊我懂你的意思了！你是想找**让 HTML 教学文档更好看更好玩的工具**。
 
