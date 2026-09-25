@@ -62,19 +62,6 @@ C:\Users\xjtx2\AppData\Roaming\CherryStudio\Data\Agents\df4d5ae3-5ddd-47bb-af6f-
 
 ## 🤖 tModLoader导师
 
-已深度思考 The user is asking about how to learn to code long-term. They're feeling overwhelmed - they can follow tutorials and copy code but can't build things independently. They feel their C# is weak and their brain is "mush" from either refreshing Roblox names or listening to music while coding.  
-  
-This is a genuine learning question. Let me give them practical, personalized advice for their specific situation (tModLoader/Unity/C# modding).  
-  
-Key things to address:  
-1. The tutorial trap - copying vs understanding  
-2. How to actually build C# fundamentals  
-3. A concrete learning path for their situation  
-4. Maybe address the music/distraction issue  
-  
-  
-5. Give them actionable steps they can start with today, not just abstract advice
-
 啊这个问题我太懂了，很多人都是"教程能跑但自己啥也写不出来"的阶段卡很久 (´・ω・`)
 
 ## 先诊断一下你的"浆糊"在哪
