@@ -682,44 +682,6 @@ C:\Users\xjtx2\Documents\My Games\Terraria\tModLoader\ModSources
 
 ## 🤖 tModLoader导师
 
-已深度思考 User moved the folder. Verify: check local Documents ModSources now has PrendeckOddments with full contents (Tools, csproj, Content...), and check whether the OneDrive path copy is gone (moved) or still there. Also verify bin/obj, api_index.json present. Then confirm and maybe remind about in-game check.  
-  
-Move verified:  
-- New home: ModSources has ModAssemblies, PrendeckOddments, tModLoader.targets ✅ (all three, same structure as F:)  
-- Project complete: csproj, sln, Content, Localization, Tools, Assets... ✅  
-- Tools intact including api_index.json ✅  
-- OneDrive old location: empty (gone) ✅ — they moved, not copied.  
-  
-One more sanity check worth doing: run api_lookup from new home (cheap, confirms tools). And quickly diff a key file between F: and new home to confirm nothing stale? The move was from the copy made today, same day. A quick check of csproj identity (hash compare F vs new) is cheap and adds confidence. Let me run tool test + compare csproj/tModLoader.targets.  
-  
-Actually the exit code 2 was just from ls on the empty dir — fine.  
-  
-Then declare new working directory. Note: my working directory for the session is still F:. Future sessions — the user will presumably open the session there or give path. I should update memory (journal or FACT) — this is durable: project home moved to C:\Users\xjtx2\Documents\My Games\Terraria\tModLoader\ModSources\PrendeckOddments. FACT.md update is ideal (durable project info). FACT update requires full rewrite via memory tool... The loaded FACT.md is long. Hmm. Journal entry is cheaper and searchable. But next session loads FACT.md automatically — the project location in FACT is now WRONG (it lists F: location). That matters! FACT.md says 位置 F:\...ModSources\PrendeckOddments. After this move, that's stale. Also "三个存放位置" mentions Tools path etc.  
-  
-I should update FACT.md properly. The memory 'update' action overwrites FACT.md with given content. I'd need to resend full content with edits. That's long but worth it for correctness. Alternatively do a targeted approach: since I can't edit FACT.md directly with Edit tool? Rules say update only through the memory tool. OK, resend full FACT with modified bits:  
-- 项目位置 → C:\Users\xjtx2\Documents\My Games\Terraria\tModLoader\ModSources\PrendeckOddments（2026-09-25 从 F 盘迁来；F 盘旧副本仍存在但已弃用）  
-- 工具链 section: api_lookup 仍在项目 Tools 下；OneDrive 事件  
-- 时间线: add 2026-09-25 OneDrive 修复事件  
-- 构建方式 unchanged.  
-- The "F 盘 ModSources" references in 关键文件 etc.  
-  
-Let me do tool test first, then FACT update, then final reply.  
-  
-Tool works in new home. Now update FACT.md (project location changed — durable knowledge). I need to resend the full FACT content with updates. Let me reconstruct it carefully with these changes:  
-  
-1. 项目位置 → new C: path, note migration date and F: old copy deprecated.  
-2. 构建方式 — unchanged (VS sln / in-game build).  
-3. 工具链 — api_lookup.py path unchanged relative to project; MCP server still registered (points where? unknown — leave).  
-4. 时间线 — add 2026-09-25: OneDrive 劫持修复 + 项目搬家。  
-5. 三个存放位置 — unchanged (AI日志 E:, 便携式教学 F:\JAVA MODS, Tools in project).  
-6. Also note in "本会话的重要教训"? No. Add a small section? Keep minimal: update 位置 + add timeline entry.  
-  
-Also maybe add the OneDrive event details briefly in timeline: 修复注册表劫持，文档改回本地，项目迁至本地 Documents ModSources，OneDrive 文件夹待用户确认后自删。  
-  
-Then final reply: confirm everything done, declare new working directory, remaining cleanup step (delete C:\Users\xjtx2\OneDrive when confident), and note F: old copy stays as backup. Also game check: ask them to open game and see mod list.  
-  
-Done. Final reply: summary of the new state, what to check in game, remaining cleanup. Keep it warm and concise.
-
 来，验收搬家成果！
 
 搬家完美！(≧▽≦) 三项全过：
