@@ -293,13 +293,6 @@ C:\Users\xjtx2\AppData\Roaming\CherryStudio\Data\Agents\df4d5ae3-5ddd-47bb-af6f-
 
 ## 🤖 tModLoader导师
 
-已深度思考 The user wants to chat about modding, specifically about the Calamity mod's effects and mechanics. They've downloaded Calamity's source code from GitHub to use as reference. They mentioned the license is custom. Let me check their local files to see what they have, and maybe look at the Calamity source to understand what kind of effects/mechanics they're interested in.  
-  
-Actually, they're in a casual chat mode - they can't code right now (waiting in Roblox queue). So I should chat with them about modding concepts, maybe discuss what makes Calamity's effects cool, and help them think about what they could learn from it.  
-  
-  
-I notice from FACT.md that their project already has a reference folder with Calamity assets, so I should explore what they've already got and use that as a starting point for our conversation about effects and mechanics they want to implement.
-
 灾厄确实是特效库级别的！虽然是原版平衡性杀手但它在**视觉和手感**方面真的是教科书级别 ✨
 
 你本地应该已经有灾厄源码了对吧？我看之前资料库里记录了 `F:\JAVA MODS\TRMOD开发\百科\Calamity 34112`——
