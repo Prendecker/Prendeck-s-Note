@@ -264,23 +264,6 @@ C:\Users\xjtx2\AppData\Roaming\CherryStudio\Data\Agents\df4d5ae3-5ddd-47bb-af6f-
 
 ## 🤖 tModLoader导师
 
-已深度思考 The user wants me to write their personal information into memory files. Let me think about what to save and where.  
-  
-From the memory system rules:  
-- SOUL.md: Identity, personality - I already updated this with the nickname T_T  
-- USER.md: User info - this is where I should put their personal details  
-- FACT.md: Long-term knowledge - project decisions, etc.  
-- JOURNAL.jsonl: Session notes - one-time events  
-  
-The user's personal info (age 15, birthday October 5th, been out of school for 2 years, etc.) should go in USER.md since that's about "WHO the user is." I should also log this as a journal entry since it's a significant session event.  
-  
-  
-I need to use the mcp__agent-memory__memory tool to update both USER.md and FACT.md - updating USER.md with their personal details and appending to the journal to track this session's events.  
-  
-Now I'll update USER.md with the new personal info, and also append a journal entry about this session.  
-  
-Good, both files updated. The user info is saved in USER.md and the session is logged in JOURNAL.jsonl.
-
 写好了！存在两个地方：
 
 **USER.md**（每次对话都会读）：
