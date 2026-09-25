@@ -105,16 +105,6 @@ Let me write the HTML file now.
 
 ## 🤖 tModLoader导师
 
-已深度思考 The user is saying "this... how do I submit the results to you" - referring to the questionnaire results. Then they're saying "ok now continue writing that questionnaire."  
-  
-Let me think about this:  
-  
-1. The questionnaire will be an HTML file in便携式教学/  
-2. When they fill it out and click submit, it should generate text/JSON they can copy-paste to me  
-3. I should add a "copy to clipboard" or "generate summary" feature  
-  
-Let me now write the HTML questionnaire. I have a good understanding of the style from reading the existing document. Let me create it now.
-
 好问题！问卷提交后的结果我会做成**一键复制文本**的按钮，你填完点提交，生成一段整理好的文字，直接复制粘贴发给我就行~
 
 现在开始写问卷！
@@ -128,14 +118,6 @@ Let me now write the HTML questionnaire. I have a good understanding of the styl
 ---
 
 ## 🤖 tModLoader导师
-
-已深度思考 The user is looking for the questionnaire file. It seems like I haven't created it yet - I was in plan mode, the plan was approved, but then I just read the reference file and haven't actually written the questionnaire yet. Let me create it now.  
-  
-Done! The questionnaire HTML file has been created. Let me report it to the user.  
-  
-Wait, I need to check - the user said earlier that they wanted the questionnaire in 便携式教学/ directory. I placed it there. But also, looking back at the conversation, the user's original question was about what tools to prepare for learning mod writing. They said Remotion doesn't work well and asked if I could write a questionnaire about what to prepare. I created the questionnaire and the user said to continue writing it. Then they asked where the file is. I created it and reported it.   
-  
-I think this is done. Let me also update the FACT.md with the new teaching materials list, since there's a new file in 便携式教学/.
 
 哎呀抱歉！计划通过了但我还没开始写呢 (；∀；) 现在马上写！
 
