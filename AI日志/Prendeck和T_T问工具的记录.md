@@ -487,18 +487,6 @@ Chat模式支持，就算是mcp增加Token消耗也没agent模式高的其实
 
 ## 🤖 tModLoader导师
 
-已深度思考 The user is correcting me - they're saying Chat mode DOES support MCP, and that the token cost of an MCP tool definition is much less than Agent mode's overhead. They have a point - Agent mode has the full system prompt, AGENTS.md, SOUL.md, USER.md, FACT.md, etc. all loaded, which is way more tokens than a single MCP tool schema.  
-  
-This changes my analysis. Let me reconsider:  
-  
-1. Chat mode supports MCP - so it's technically feasible  
-2. Token cost: MCP tool schema (~200-400 tokens) vs Agent mode system prompt (probably 3000-5000+ tokens)  
-  
-  
-3. For quick API lookups, Chat mode with MCP would actually be more efficient than switching to Agent mode  
-  
-They're right - I was wrong to dismiss it. The real question now is whether building an MCP server for api_lookup.py is worth the effort, and I need to understand how Cherry Studio's Chat mode actually handles MCP servers before recommending an approach.
-
 你说得对！我算错账了。
 
 对比一下：
