@@ -2107,45 +2107,6 @@ Now I'm thinking through what should go into a proper skill file. The core issue
 
 ## 🤖 tModLoader导师
 
-已深度思考 The user wants me to update the tmodloader SKILL.md. Let me plan the changes:  
-  
-1. Remove the "智能体协作系统" section (fake agent team)  
-2. Replace "动画演示生成" with "教学文档生成" (HTML interactive docs)  
-3. Add a "自学方法论" section teaching how to use api_lookup  
-4. Add project context (PrendeckOddments)  
-5. Streamline the static API list  
-  
-Let me write the new version. I need to be careful - this is a file the user asked me to edit, and it's not in the mod project directory (it's in Cherry Studio's data directory), so I can freely edit it.  
-  
-  
-Now I'm drafting the updated SKILL.md content...  
-  
-Wait, I need to think about whether I should use TaskCreate or not. The user asked me to edit a skill file. This is a straightforward edit task. But it's a multi-step rewrite, so task tracking makes sense.  
-  
-Actually, looking at the pending tasks, tasks #1-4 are already completed. Let me just focus on doing the work. The user asked me to go ahead and make the changes. Let me just write the new SKILL.md.  
-  
-Let me plan the new structure:  
-  
-1. **触发条件** (keep, minor update)  
-2. **自学方法论** (NEW - the most important addition)  
-  
-  
-3. **教学文档生成** (replaces animation section)  
-4. **核心API参考** (streamlined)  
-5. **Example Mod关键代码** (keep, minor update)  
-6. **常见问题** (keep)  
-7. **项目上下文** (NEW - PrendeckOddments specifics)  
-8. **学习路径** (updated)  
-9. **参考资源** (keep, update)  
-  
-Now I'll write this out.  
-  
-Now let me write the new SKILL.md. I need to keep it focused and useful, removing the fluff and adding practical content.  
-  
-Done. Let me update the task and give the user a summary of what changed.  
-  
-Done! Let me summarize the changes for the user.
-
 改好了！主要变化：
 
 **删掉的**：
