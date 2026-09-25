@@ -1537,20 +1537,6 @@ Cherry Studio 里配的话，选哪个生图模型有想法吗？还是想让我
 
 ## 🤖 tModLoader导师
 
-已深度思考 The user is clarifying that they want image generation for tutorial images (教学图), not for mod sprites/textures. They're also saying that using AI-generated images for game assets would get them attacked by the community ("贵圈" - the Terraria modding community).  
-  
-So the use case is:  
-- Generating diagrams, flowcharts, illustrations for teaching documents (like the HTML interactive docs they already have)  
-- NOT for game sprites or item textures  
-  
-This makes much more sense! For teaching materials, AI-generated images would be perfectly fine and useful. Things like:  
-- Visual diagrams explaining code concepts  
-- Flowcharts for game logic  
-- Illustrative images for tutorialsThis is a valid use case. Let me think about what would be good for this:  
-  
-  
-For diagrams and flowcharts, I'd lean toward CSS-based solutions since they're cleaner and more controllable, but for illustrative images like concept art or backgrounds to enhance the learning experience, an image generation model would work well.
-
 哈哈懂了懂了！用 AI 画物品贴图 = 社死现场 💀
 
 **教程图**的话完全没问题啊！比如：
