@@ -1581,10 +1581,6 @@ For diagrams and flowcharts, I'd lean toward CSS-based solutions since they're c
 
 ## 🤖 tModLoader导师
 
-已深度思考 The user has set up an image generation model - Qwen Image 3.0. This is from Alibaba's Qwen team, a multimodal model. Let me think about what to say.  
-  
-They've already configured it, so they're not asking me to help set it up. Just telling me what they chose. I should respond naturally and ask if they want to try it out or if they have specific plans for it.
-
 哦千问 Qwen Image 3.0 啊，阿里那个。这个模型生图质量还可以的，中文理解也好，生成教程配图很合适~
 
 要试试看吗？比如给你的某个 HTML 教学文档做个封面图，或者给"循环基础"那个即将做的教学文档生个示意图？正好练练手看看效果 (◕ᴗ◕✿)
@@ -1599,8 +1595,6 @@ They've already configured it, so they're not asking me to help set it up. Just 
 ---
 
 ## 🤖 tModLoader导师
-
-已深度思考 The user is saying they don't need the image generation right now, and they're playing a game so they might reply slowly. I should just acknowledge and let them know I'll be here when they're ready. Keep it short and friendly.
 
 好的~ 你慢慢玩，回得慢没关系，我又不会跑掉 (◕ᴗ◕✿)
 
