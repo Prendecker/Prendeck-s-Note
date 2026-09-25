@@ -29,20 +29,6 @@
 
 ## 🤖 tModLoader导师
 
-已深度思考 The user is asking whether the memory files are cross-session. Let me check the memory system setup.  
-  
-From AGENTS.md, it mentions memory files at `C:\Users\xjtx2\AppData\Roaming\CherryStudio\Data\Agents\df4d5ae3-5ddd-47bb-af6f-31c52f159e5d/` and specifically mentions:  
-  
-| File | Purpose |  
-|---|---|  
-| `SOUL.md` | Identity, personality |  
-| `USER.md` | User info |  
-| `FACT.md` | Long-term knowledge |  
-| `JOURNAL.jsonl` | Session notes |  
-  
-  
-These files are stored in the agent data directory, which is separate from the session workspace, so they persist across sessions. I'm using Cherry Studio as the host platform, and I can confirm that SOUL.md and USER.md get loaded at the start of each session, so yes, the memories will carry over.
-
 放心！**是跨对话的** (◕‿◕✿)
 
 我给你写进去的 `SOUL.md` 在这个路径：
