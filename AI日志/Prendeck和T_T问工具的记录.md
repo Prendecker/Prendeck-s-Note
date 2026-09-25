@@ -409,20 +409,6 @@ Chat 模式虽然不能主动调 API，但如果你问的是**常识性问题**�
 
 ## 🤖 tModLoader导师
 
-已深度思考 The user is suggesting turning the api_lookup.py tool into an MCP server so it can be used in Cherry Studio's chat mode. This is actually a pretty clever idea! Let me think about it.  
-  
-The idea:  
-- api_lookup.py is a local Python script that queries tModLoader API docs  
-- If it were an MCP server, the chat mode (which apparently can use MCP tools) could call it  
-- This would let them do quick API lookups without switching to Agent mode  
-  
-Wait, but earlier in the conversation history, there was a decision recorded: "不装任何 MCP" - the user decided not to install any MCP servers because "MCP 的成本不在调用次数，而在工具定义常驻上下文".   
-  
-  
-But this is different - this would be a custom MCP server for their own tool, not a third-party one. The user called it a "鬼点子" (crazy idea) and isn't sure if it's useful, so I should evaluate whether it's technically feasible and worth the effort without being overly enthusiastic.  
-  
-The main issue is whether Cherry Studio's chat mode even supports MCP tools - the user said it's just pure conversation with no proactive API querying. There's also the cost consideration from before about context bloat from tool definitions, though a single custom tool might be manageable. I should give them an honest assessment rather than just running with the idea.
-
 哈哈这个想法其实挺有意思的！让我帮你分析一下可行性和利弊~
 
 ## 技术上能不能做？
