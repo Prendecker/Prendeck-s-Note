@@ -1662,35 +1662,6 @@ Let me think about what's practical for their setup with Cherry Studio:- Cherry 
 
 ## 🤖 tModLoader导师
 
-已深度思考 The user wants to chat about tools - specifically MCP servers, skills, and HTML animation libraries they could add/use. Let me think about what would be useful for their mod development workflow.  
-  
-Current setup:  
-- They have a tmodlookup MCP server (their own, for API lookup)  
-- They have the tmodloader skill (available in the system reminder)  
-- They use HTML interactive docs for teaching (pure CSS animations)  
-- They decided Remotion is abandoned  
-  
-Let me think about what could be useful:  
-  
-1. **MCP servers they could add**:  
-- GitHub MCP - for repository management (but they said they don't want to add any MCP, wait... that was in FACT.md as a decision)  
-- Actually the decision was "不装任何 MCP（含 GitHub MCP）" - but they already installed their own tmodlookup. So the principle was about not adding external ones that pollute context  
-- Web search/fetch - Cherry Studio already has these built-in  
-- File system MCP - probably not needed, they have file tools - Maybe a Terraria wiki MCP? That could be useful  
-  
-2. **Skills**:  
-- The tmodloader skill is already available  
-- Could search for other relevant skills  
-  
-3. **HTML animation libraries**:  
-- They decided on pure CSS for teaching docs, but they might want something more sophisticated for other use cases  
-- GSAP is the industry standard for complex web animations  
-- Anime.js offers a simpler alternative  
-- Lottie handles After Effects exports  
-- Three.js could add 3D elements if needed  
-  
-Given their preference for single-file zero-dependency solutions, I should recommend libraries that can be loaded via CDN without build tools.
-
 好问题！来聊聊~ (◕ᴗ◕✿)
 
 ## MCP
