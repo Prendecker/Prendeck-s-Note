@@ -648,16 +648,6 @@ But per user rules: ask before moving. They said "工作目录就换一个" — 
 
 ## 🤖 tModLoader导师
 
-已深度思考 User rebooted, went into game, found their mod folder didn't carry over ("模组文件夹没过去"). They're going to copy it now and then give me a file link to look at.  
-  
-Wait — "我模组文件夹没过去" — the mod folder didn't make it over. Right, because we predicted: after reboot, tModLoader reads local Documents ModSources which is empty. They said they'll copy it themselves first, then give me a file link to check.  
-  
-So my response: acknowledge, explain that's exactly the predicted behavior (not a new bug), let them copy. Meanwhile I could offer to verify once done. Also remind them where it should go: C:\Users\xjtx2\Documents\My Games\Terraria\tModLoader\ModSources\ — and suggest moving (not copying) from the OneDrive path to avoid two divergent copies, since two copies = future confusion. But they said "先复制一下" — I can gently suggest move instead of copy, but they're doing it themselves; keep it light.  
-  
-Also note: they said "给你个文件链接看一看" — maybe they'll paste a path or screenshot. Just wait.  
-  
-Short response. Maybe while they copy, I can pre-check the local ModSources is still empty. Keep it brief — don't do heavy tool calls. Actually a quick verification of the local path being ready is cheap and useful... but not necessary; don't spam. Keep reply short and supportive.
-
 嗯！这个正是刚才预告的那个坑——**不是新 bug**，重启后 tModLoader 就改看本地 `C:\Users\xjtx2\Documents\My Games\Terraria\tModLoader\ModSources` 了，那里是空的，所以游戏里模组列表空了 (´・ω・`)
 
 你去复制的时候，一个小建议：
