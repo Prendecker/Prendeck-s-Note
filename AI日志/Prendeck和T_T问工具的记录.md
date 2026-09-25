@@ -1617,19 +1617,6 @@ They've already configured it, so they're not asking me to help set it up. Just 
 
 ## 🤖 tModLoader导师
 
-已深度思考 The user is asking about how to control the quota/spending for the image generation model (Qwen Image 3.0). They're worried about burning through credits quickly without getting much value. They mention they've been spending a lot of money in recent days.  
-  
-This is a practical concern about API cost management. Let me think about what advice I can give:  
-  
-1. For Qwen/Alibaba Cloud models, they usually have a console where you can set spending limits  
-2. They can set up budget alerts  
-3. They can use the model's API with rate limiting  
-  
-Let me think about what's practical for their setup with Cherry Studio:- Cherry Studio might have its own cost tracking- The Qwen API (through Alibaba Cloud / DashScope) has settings for spending limits  
-  
-  
-- I should focus on actionable cost control strategies rather than being too theoreticalThe user seems to be a15-year-old who's careful about money, so I should give practical, non-overwhelming advice about setting spending caps and monitoring usage through the DashScope console or Cherry Studio's settings.
-
 这个担心很实际！AI 模型额度确实用得快。几个控制方法：
 
 **阿里云 DashScope 控制台**（千问的后端）：
