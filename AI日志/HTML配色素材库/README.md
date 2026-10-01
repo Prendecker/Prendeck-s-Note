@@ -28,5 +28,6 @@ airbnb / binance / clickhouse / composio / cursor / hp / linear.app / minimax / 
 1. **整份参考**：把某家的 DESIGN.md 内容喂给 AI，说"照这个风格做页面"
 2. **丢进项目**：把 `DESIGN.md` 拷到项目根目录，AI 编码时会自动读
 3. **混搭**：可以只取一家的配色 + 另一家的排版，注明来源
+4. &nbsp;
 
 &nbsp;
