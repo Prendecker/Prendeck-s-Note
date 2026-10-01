@@ -18,7 +18,8 @@ airbnb / binance / clickhouse / composio / cursor / hp / linear.app / minimax / 
 ## 未收录（2 家）
 
 - **mobbin** — 原库里没有
-- **discord** — 原库里没有  
+- **discord** — 原库里没有
+
 /
 
 需要的话可以从库里 74 家里挑替补（claude / figma / notion / vercel / stripe / spotify 都在）。
