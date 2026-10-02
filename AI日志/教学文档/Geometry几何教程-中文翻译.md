@@ -21,7 +21,7 @@
 
 泰拉瑞亚使用好几套坐标系，如果你没有图形编程经验，X 和 Y 的方向可能会让你吃惊。请参阅 [Coordinates 坐标](https://github.com/tModLoader/tModLoader/wiki/Coordinates) 页面，熟悉世界坐标以及 X、Y 正方向的指向。
 
-&nbsp;
+/
 
 ### 旋转
 
